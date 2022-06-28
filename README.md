@@ -33,8 +33,8 @@ Follow these steps to install this project on your local machine.
 - Link to Deployed Application: none
 
 ## Images
-- ![README Generator](./assets/images/EmployeeTracker.gif)
-- [CLICK HERE TO VIEW FULL VIDEO](./assets/images/EmployeeTracker.webm)
+- ![README Generator](./assets/EmployeeTracker.gif)
+- [CLICK HERE TO VIEW FULL VIDEO](https://drive.google.com/file/d/1gijnnUSr3Z5YDjdvPr8h8cXzH2wQ7z6P/view?usp=sharing)
 ## Tests
 - Email me
 
